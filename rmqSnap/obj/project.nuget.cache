@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "KR45CQu250qDGu4nraku2oWeS3n5d64n9H8usjm/34gXPAi1pcPUGZhkt9GZB9jLfjdy6HqA/W/+IdepwdKDHA==",
+  "success": true,
+  "projectFilePath": "/home/setsu/snap-rmq/rmqSnap/rmqSnap.csproj",
+  "expectedPackageFiles": [
+    "/home/setsu/.nuget/packages/microsoft.net.illink.tasks/8.0.17/microsoft.net.illink.tasks.8.0.17.nupkg.sha512",
+    "/home/setsu/.nuget/packages/rabbitmq.client/6.2.1/rabbitmq.client.6.2.1.nupkg.sha512",
+    "/home/setsu/.nuget/packages/system.memory/4.5.4/system.memory.4.5.4.nupkg.sha512",
+    "/home/setsu/.nuget/packages/system.threading.channels/4.7.1/system.threading.channels.4.7.1.nupkg.sha512",
+    "/home/setsu/.nuget/packages/microsoft.netcore.app.runtime.linux-x64/8.0.17/microsoft.netcore.app.runtime.linux-x64.8.0.17.nupkg.sha512",
+    "/home/setsu/.nuget/packages/microsoft.aspnetcore.app.runtime.linux-x64/8.0.17/microsoft.aspnetcore.app.runtime.linux-x64.8.0.17.nupkg.sha512",
+    "/home/setsu/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.17/microsoft.netcore.app.host.linux-x64.8.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

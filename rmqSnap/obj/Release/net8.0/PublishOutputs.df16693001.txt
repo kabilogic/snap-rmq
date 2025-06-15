@@ -1,0 +1,6 @@
+/home/setsu/snap-rmq/rmqSnap/publish/rmqSnap
+/home/setsu/snap-rmq/rmqSnap/publish/rmqSnap.dll
+/home/setsu/snap-rmq/rmqSnap/publish/rmqSnap.deps.json
+/home/setsu/snap-rmq/rmqSnap/publish/rmqSnap.runtimeconfig.json
+/home/setsu/snap-rmq/rmqSnap/publish/rmqSnap.pdb
+/home/setsu/snap-rmq/rmqSnap/publish/RabbitMQ.Client.dll

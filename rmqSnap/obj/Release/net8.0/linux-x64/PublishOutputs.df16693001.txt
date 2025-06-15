@@ -1,0 +1,2 @@
+/home/setsu/snap-rmq/rmqSnap/publish/rmqSnap.pdb
+/home/setsu/snap-rmq/rmqSnap/publish/rmqSnap

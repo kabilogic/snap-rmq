@@ -1,0 +1,17 @@
+/home/setsu/snap-rmq/rmqSnap/obj/Release/net8.0/rmqSnap.csproj.AssemblyReference.cache
+/home/setsu/snap-rmq/rmqSnap/obj/Release/net8.0/rmqSnap.GeneratedMSBuildEditorConfig.editorconfig
+/home/setsu/snap-rmq/rmqSnap/obj/Release/net8.0/rmqSnap.AssemblyInfoInputs.cache
+/home/setsu/snap-rmq/rmqSnap/obj/Release/net8.0/rmqSnap.AssemblyInfo.cs
+/home/setsu/snap-rmq/rmqSnap/obj/Release/net8.0/rmqSnap.csproj.CoreCompileInputs.cache
+/home/setsu/snap-rmq/rmqSnap/bin/Release/net8.0/rmqSnap
+/home/setsu/snap-rmq/rmqSnap/bin/Release/net8.0/rmqSnap.deps.json
+/home/setsu/snap-rmq/rmqSnap/bin/Release/net8.0/rmqSnap.runtimeconfig.json
+/home/setsu/snap-rmq/rmqSnap/bin/Release/net8.0/rmqSnap.dll
+/home/setsu/snap-rmq/rmqSnap/bin/Release/net8.0/rmqSnap.pdb
+/home/setsu/snap-rmq/rmqSnap/bin/Release/net8.0/RabbitMQ.Client.dll
+/home/setsu/snap-rmq/rmqSnap/obj/Release/net8.0/rmqSnap.csproj.CopyComplete
+/home/setsu/snap-rmq/rmqSnap/obj/Release/net8.0/rmqSnap.dll
+/home/setsu/snap-rmq/rmqSnap/obj/Release/net8.0/refint/rmqSnap.dll
+/home/setsu/snap-rmq/rmqSnap/obj/Release/net8.0/rmqSnap.pdb
+/home/setsu/snap-rmq/rmqSnap/obj/Release/net8.0/rmqSnap.genruntimeconfig.cache
+/home/setsu/snap-rmq/rmqSnap/obj/Release/net8.0/ref/rmqSnap.dll

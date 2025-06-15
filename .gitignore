@@ -1,0 +1,9 @@
+# Build output
+rmqSnap/bin/
+rmqSnap/obj/
+rmqSnap/publish/
+
+# Snap artifacts
+*.snap
+.snapcraft/
+*.log
