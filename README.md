@@ -41,6 +41,8 @@ dotnet add package RabbitMQ.Client
 ```
 ### 3. Publish the App
 ```
+dotnet clean
+dotnet build
 dotnet publish -c Release -r linux-x64 --self-contained true -o publish /p:PublishSingleFile=true /p:PublishTrimmed=true
 ```
 ## Snapcraft Build
