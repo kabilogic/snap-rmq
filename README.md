@@ -69,6 +69,38 @@ Expected output:
 ```
 Make sure your RabbitMQ server is reachable at the IP specified in Program.cs.
 ## RabbitMQ Setup
+### Install RabbitMQ and Erlang 
+```
+sudo apt update
+sudo apt install rabbitmq-server -y
+```
+This installs:
+-> RabbitMQ server
+-> Erlang
+-> Required systemd service files
+
+### Enable & Start RabbitMQ
+
+```
+sudo systemctl enable rabbitmq-server
+sudo systemctl start rabbitmq-server
+```
+Check the status:
+```
+sudo systemctl status rabbirmq-server
+```
+### Verify It's Listening on Port 5672
+```
+sudo ss -tuln | grep 5672
+```
+You should see:
+```
+LISTEN 0 128 0.0.0.0:5672 ...
+```
+### (Optional) Enable RabbitMQ Web UI (Management Plugin)
+```
+sudo rabbitmq-plugins enable rabbitmq_management
+```
 You can verify the message with a basic consumer or using the RabbitMQ UI at:
 http://<your-server-ip>:15672
 
